@@ -1,3 +1,8 @@
+# 2.2.4
+* Chore: refresh runtime and development dependencies [Dr-Usman](https://github.com/Dr-Usman)
+* Chore: update GitHub Actions checkout step to `actions/checkout@v6` [Dr-Usman](https://github.com/Dr-Usman)
+* Docs: align README installation snippet with the latest package version [Dr-Usman](https://github.com/Dr-Usman)
+
 # 2.2.3
 * Chore: Shorten package description to 60-180 characters for pub.dev score
 * Docs: Add example file (example/example.dart)
